@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="01数组倒置invert1,2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02冒泡排序Bubblesort.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="000宏定义000.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03数值交换my_swap.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="05指针数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="04字符串交换my_strcpy1,2,3,4.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="06去空格remove_space.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07地址传递my_swap.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08查找字符串my_strstr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="09查找字符串个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="10查找字符my_strchr.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11回文字符串.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="12字符串拷贝my_strcpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="13字符串有限拷贝my_strncpy.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="14字符串追加my_strcat.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15字符串有限追加my_strncat.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="16字符串比较my_strcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17 字符串有限比较my_strncmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="18字符串格式化操作my_sprintf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19字符串反转模型inverse1,2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="20字符串分割截取[系统函数]strtok.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21字符串类型转换my_atoi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22判断单词个数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23【自写】选择排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24【自写】日期计算.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="25斐波那契数列（兔子数列）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26数据存储位置.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27堆空间开辟和使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="28重置连续内存空间值memset.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="29内存拷贝函数memcpy，memmove.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="30比较内存内容memcmp.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31内存常见问题.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="32开辟二级指针对应的堆空间.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33结构体的定义和使用.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="33结构体数组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34开辟堆空间存储结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="35结构体嵌套结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="36结构体赋值.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="37%281%29结构体和指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="38%282%29结构体和指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39%282%29结构体做函数参数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39%281%29结构体做函数参数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="39%283%29结构体做函数参数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="40const修饰的结构体指针.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41共用体%28联合体%29union.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42%281%29枚举enum.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42%282%29枚举案例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="42(3)枚举案例.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="44typedef.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45文件FILE打开fopen和关闭fclose.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46文件的读取fgetc,feof.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="47文件的写入fputs.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="48简单的加密解密.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49文件行读写fgets.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50四则运算上sprintf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="50四则运算下sscanf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="51文件格式化读写fprintf,fscanf.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="52大文件排序上生成.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53大文件排序下排序.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="02(2)直接插入法.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54文件块读写fwrite,fread.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="55.文件读写结构体.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="58获取文件状态fseek.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一点没听懂56大文件拷贝p123.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="一点没听懂57主函数参数p78.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="59文件随机读写fseek,ftell,rewind.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="60文件删除remove,重命名rename.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="61更新缓冲区fflush.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="62快译通核心代码.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="63.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="注.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="没学明白的.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
